@@ -7,3 +7,14 @@
 - 🕒 In my free time, I enjoy using [The Odin Project](https://www.theodinproject.com/) to learn how to become a full-stack developer through their comprehensive, free curriculum.
 - 📫 How to reach me: [atlegangcode@gmail.com](mailto:atlegangcode@gmail.com).
 
+## Languages
+- **Proficient:** Python, JavaScript
+- **Learning:** Java, TypeScript (soon to start)
+
+## Tools
+- **Version Control**: Git
+- **IDEs**: Visual Studio Code (VSCode), IntelliJ IDEA
+- **Build Tools**: Webpack
+- **Package Manager**: npm
+- **Testing Frameworks**: Python's unittest framework, Jest (to be learned)
+- **Design Tools**: Figma (to be learned)
