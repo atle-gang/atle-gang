@@ -1,4 +1,4 @@
-## Hi there, Atlegang Sethono 👋
+## Hi there, I am Atlegang Sethono 👋   
 
 ## About me
 - 🎓 I'm currently a student at WeThinkCode_, studying for a certificate in Systems Development.
