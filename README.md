@@ -17,8 +17,8 @@
 - **Build Tools**: Webpack
 - **Package Manager**: npm
 - **Testing Frameworks**: Python's unittest framework, Jest (to be learned)
-- **Design Tools**: Figma (to be learned)
+- **Design Tools**: Figma (to be learned) -->
 
 ![Atlegang's GitHub stats](https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true)`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
