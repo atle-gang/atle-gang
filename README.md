@@ -18,7 +18,7 @@
 - **Package Manager:** npm
 - **Dependency Management:** Maven (Java)
 - **Testing Frameworks:** unittest (Python), JUnit (Java)
-<!-- - **Design Tools:** Figma (to be learned) -->-->
+<!-- - **Design Tools:** Figma (to be learned) -->
 
 ![Atlegang's GitHub stats](https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true)`
 
