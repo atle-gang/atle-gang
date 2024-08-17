@@ -4,7 +4,7 @@
 - 🎓 I'm currently a final-year student at WeThinkCode_, pursuing a certificate in Information Technology (Systems Development).
 - 🌱 I'm learning fundamental programming concepts and object-oriented programming principles using Python and Java.
 - 🌐 Additionally, I'm self-learning full-stack web development, focusing on frontend technologies (HTML, CSS, JavaScript). As I advance, I plan to dive into backend development with Node.js, Express.js, and databases.
-- 🕒 In my free time, I enjoy using [The Odin Project](https://www.theodinproject.com/) to enhance my full-stack development skills through their comprehensive, free curriculum.
+- 🕒 In my free time, I enjoy using [The Odin Project](https://www.theodinproject.com/) and [Full stack open](https://fullstackopen.com/en/) to enhance my full-stack development skills through their comprehensive, free curriculum.
 - 📫 Feel free to reach out to me at [atlegangcode@gmail.com](mailto:atlegangcode@gmail.com).
 
 ## Languages
