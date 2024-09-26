@@ -1,4 +1,4 @@
-## Hi there, I am Atlegang Sethono 👋   
+## Hi there, I am Atle 👋   
 
 ## About Me
 - 🎓 I'm currently a final-year student, pursuing a certificate in Information Technology (Systems Development).
@@ -7,8 +7,8 @@
 - 🕒 In my free time, I enjoy using [The Odin Project](https://www.theodinproject.com/) and [Full stack open](https://fullstackopen.com/en/) to enhance my full-stack development skills through their comprehensive, free curriculum.
 - 📫 Feel free to reach out to me at [atlegangcode@gmail.com](mailto:atlegangcode@gmail.com).
 
-## Languages
-- **Proficient:** Python, Java, JavaScript
+<!-- ## Languages -->
+<!-- - **Proficient:** Python, Java, JavaScript -->
 <!-- - **Learning:** Java, TypeScript (soon to start) -->
 
 ## Tools
