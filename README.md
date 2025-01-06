@@ -1,7 +1,7 @@
 ### Hi there, I am Atlegang 👋   
-👤 **Fullstack Web Developer** actively seeking internship opportunities.
-💻 **MERN** stack
-🌱 I also have experience with Java, Python, Flutter & Dart.
+- 👤 **Fullstack Web Developer** actively seeking internship opportunities.
+- 💻 **MERN** stack
+- 🌱 I also have experience with Java, Python, Flutter & Dart.
 
 
 ### Tools
