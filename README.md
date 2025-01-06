@@ -40,15 +40,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's connect
-<a href="mailto:atlegangcode@gmail.com" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;" />
-</a>
-<span style="vertical-align: middle;">Feel free to reach out to me at <a href="mailto:atlegangcode@gmail.com">atlegangcode@gmail.com</a>.</span>
-<br /><br />
-<a href="https://za.linkedin.com/in/atle-gang" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" style="vertical-align: middle; margin-right: 8px;" />
-</a>
-<span style="vertical-align: middle;">Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
+- Feel free to reach out to me at [atlegangcode@gmail.com](mailto:atlegangcode@gmail.com).
+- Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
 
 ## Recruiter?
 > <a href="" download>Download my resume</a>
