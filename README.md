@@ -3,7 +3,6 @@
 💻 **MERN** stack
 🌱 I also have experience with Java, Python, Flutter & Dart.
 
----
 
 ### Tools
 **Frontend**:  
@@ -34,15 +33,12 @@
 
 **Cloud & Deployment**: Docker containerization, Pipeline automation
 
----
-
 ### GitHub stats
 
 ![Atlegang's GitHub stats](https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ### Let's connect
 <a href="mailto:atlegangcode@gmail.com" style="text-decoration: none;">
