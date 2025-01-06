@@ -49,4 +49,10 @@
 </a>
 <span style="vertical-align: middle;">Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
 
+---
+
+### Recruiter?
+> <a href="" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37ba0f&height=120&section=footer" alt="footer"/>
 </div>
