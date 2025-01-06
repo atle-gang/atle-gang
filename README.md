@@ -1,11 +1,10 @@
-### Hi there, I am Atlegang 👋   
+## Hi there, I am Atlegang 👋   
 👤 **Fullstack Web Developer** actively seeking internship opportunities.
 💻 **MERN** stack
 🌱 I also have experience with Java, Python, Flutter & Dart.
 
----
 
-### Tools
+## Tools
 **Frontend**:  
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
@@ -34,17 +33,13 @@
 
 **Cloud & Deployment**: Docker containerization, Pipeline automation
 
----
-
-### GitHub stats
+## GitHub stats
 
 ![Atlegang's GitHub stats](https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### Let's connect
+## Let's connect
 <a href="mailto:atlegangcode@gmail.com" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" style="vertical-align: middle; margin-right: 8px;" />
 </a>
@@ -55,9 +50,7 @@
 </a>
 <span style="vertical-align: middle;">Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
 
----
-
-### Recruiter?
+## Recruiter?
 > <a href="" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37ba0f&height=120&section=footer" alt="footer"/>
