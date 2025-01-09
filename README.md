@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's connect
-- Feel free to reach out to me at [atlegangcode@gmail.com](mailto:atlegangcode@gmail.com).
+- Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
 - Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
 
 ## Recruiter?
