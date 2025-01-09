@@ -3,7 +3,6 @@
 💻 **MERN** stack
 🌱 I also have experience with Java, Python, Flutter & Dart.
 
-
 ## Skills & Tools
 **Frontend**:  
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
