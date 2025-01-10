@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=npm,maven)](https://skillicons.dev)
 
 **Testing Frameworks**:  
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
 
 **Software Practices**: Test-Driven Development (TDD), CI/CD, User Acceptance Testing  
 
