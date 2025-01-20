@@ -9,12 +9,9 @@
 
 ## GitHub stats
 
-<a href="https://github.com/atle-gang">
-  <img height=200 align="center" src="https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true" />
-</a>
-<a href="https://github.com/atle-gang">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent&langs_count=8" />
-</a>
+![Atlegang's GitHub stats](https://github-readme-stats-atle-gangs.vercel.app/api?username=atle-gang&theme=transparent&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's connect
 <!-- - Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
