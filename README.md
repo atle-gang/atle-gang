@@ -16,9 +16,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent&langs_count=8" />
 </a>
 
-GitHub readme stats credit: https://github.com/atle-gang/github-readme-stats
-
-
 ## Let's connect
 <!-- - Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
 - Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span> -->
