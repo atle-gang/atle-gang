@@ -18,10 +18,14 @@
 
 
 ## Let's connect
-- Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
-- Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span>
+<!-- - Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
+- Connect with me on <a href="https://za.linkedin.com/in/atle-gang">LinkedIn</a>.</span> -->
+<p align="left">
+  <a href="mailto:atlegangsethono@gmail.com" target="blank"><img align="center" src="./images/email.png" alt="email" height="55" width="55"/></a>
+  <a href="https://za.linkedin.com/in/atle-gang" target="blank"><img align="center" src="./images/linkedin.png" alt="Atlegang Sethono LinkedIn" height="40" width="40" /></a>
+</p>
 
-## Recruiter?
-> <a href="" download>Download my resume</a>
+<!-- ## Recruiter?
+> <a href="" download>Download my resume</a> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37ba0f&height=120&section=footer" alt="footer"/>
