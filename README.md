@@ -16,6 +16,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atle-gang&layout=compact&theme=transparent&langs_count=8" />
 </a>
 
+GitHub readme stats credit: https://github.com/atle-gang/github-readme-stats
+
 
 ## Let's connect
 <!-- - Feel free to reach out to me at [atlegangsethono@gmail.com](mailto:atlegangsethono@gmail.com).
@@ -25,7 +27,12 @@
   <a href="https://za.linkedin.com/in/atle-gang" target="blank"><img align="center" src="./images/linkedin.png" alt="Atlegang Sethono LinkedIn" height="40" width="40" /></a>
 </p>
 
+## Credits
+
+The GitHub stats and top languages cards in this profile are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), an amazing project by [Anurag Hazra](https://github.com/anuraghazra).
+
 <!-- ## Recruiter?
 > <a href="" download>Download my resume</a> -->
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37ba0f&height=120&section=footer" alt="footer"/>
