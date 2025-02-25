@@ -4,7 +4,7 @@
 🌱 I also have experience with Java, Python, Flutter & Dart.
 
 ## Skills, Languages & Tools I am familiar with:
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,sqlite,flutter,dart,java,py,git,docker,gitlab,github,webpack,postman,npm,maven,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,firebase,sqlite,flutter,dart,java,py,git,docker,gitlab,github,webpack,postman,npm,maven,vitest,redux,fastapi)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=n)](https://skillicons.dev)
 
 <!-- ## GitHub stats
