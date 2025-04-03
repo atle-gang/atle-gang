@@ -20,6 +20,4 @@ The GitHub stats and top languages cards in this profile are powered by [GitHub 
 
 <!-- ## Recruiter?
 > <a href="" download>Download my resume</a> -->
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37ba0f&height=120&section=footer" alt="footer"/>
