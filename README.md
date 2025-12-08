@@ -1,6 +1,6 @@
 ## Hi there, I am Atlegang 👋   
 👤 **Fullstack Web Developer** actively seeking internship opportunities.
-💻 **MERN** stack
+💻 **MERN** stack, also have experience building REST APIs using Spring Boot
 🌱 I also have experience with Java, Python, Flutter & Dart.
 
 ## Skills, Languages & Tools I am familiar with:
